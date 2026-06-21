@@ -1,2 +1,0 @@
-/sdcard/Android/data/com.SDI.TWD/files/ProgramBinaryCache/GLSL_ES3_1_ANDROID_D99A1642207D05972188D8B730F0EF1E733A80F5-400355
-/sdcard/Android/data/com.SDI.TWD/files/TWD_GLSL_ES3_1_ANDROID.upipelinecache
